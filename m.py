@@ -4,8 +4,8 @@ import random
 import re
 from telethon.sync import TelegramClient, events
 
-api_id = '28966859'
-api_hash = 'dc821a2f3933cb6b9e0b076bbc2111d1'
+api_id = '25633812'
+api_hash = '14f0e5b97bc539c21d2ae05a6d72fffd'
 phone_number = '+917039128567'
 file_path = 'data.txt'
 group_usernames = ['alterchkbot']
