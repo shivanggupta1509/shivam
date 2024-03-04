@@ -1,1 +1,1 @@
-cmd = idk
+cmd = es
